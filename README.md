@@ -1,1 +1,1 @@
-See README for overview, requirements and instructions.
+See README text for overview, requirements and instructions.
