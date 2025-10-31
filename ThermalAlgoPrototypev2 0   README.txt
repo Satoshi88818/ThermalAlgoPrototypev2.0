@@ -49,7 +49,7 @@ torch-fid>=0.2.0
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/ThermalAlgoPrototypev2.0.git
+git clone https://github.com/Satoshi88818/ThermalAlgoPrototypev2.0/tree/main.git
 cd ThermalAlgoPrototypev2.0
 
 # 2. Create virtual environment (recommended)
@@ -197,7 +197,7 @@ outputs/
   author = {{James Squire & xAI Thermal Team}},
   title = {ThermalAlgoPrototypev2.0: Block-Sparse Discrete DTM with Bit-Flip Noise and PCD-k},
   year = {2025},
-  url = {https://github.com/xai-thermal/ThermalAlgoPrototypev2.0},
+  url = {https://github.com/Satoshi88818/ThermalAlgoPrototypev2.0/tree/main}; 
   note = {First-principles discrete generative model with TSU support}
 }
 ```
